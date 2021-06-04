@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eoghan O'Connor
 - 👀 I’m interested in Machine learning & Vision, Space and Astronomy
-- 🌱 I’m currently learning kotlin to make a Machine Vision app.
+- 🌱 I’m currently learning machine vision.
 - 💞️ I’m looking to collaborate on Machine vision and machine Learning
 - 📫 How to reach me? Send me a email at eoghanfoconnor@gmail.com
 
